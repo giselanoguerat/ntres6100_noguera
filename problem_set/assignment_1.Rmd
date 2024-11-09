@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1: R markdown template"
-output: github_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
